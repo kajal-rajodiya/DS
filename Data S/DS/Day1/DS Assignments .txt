@@ -1,4 +1,4 @@
-llllllllllllllllllllll
+llllllllllllllllll
 Accept number and apply logic on that 
 
 1) Sunny Number  ----  number ,   number +1 -  sqrt 
