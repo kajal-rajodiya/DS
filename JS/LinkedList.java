@@ -6,7 +6,7 @@ public class LinkedList {
         int choice;
         Scanner sc= new Scanner(System.in);
         do{
-
+            System.out.println("\n\n0. Exit\n1. Display");
             choice=sc.nextInt();
             switch (choice) {
                 case 1:
@@ -16,7 +16,7 @@ public class LinkedList {
                 default:
                     break;
             }
-        }
+        }while(choice != 0);
     }
     
 }
